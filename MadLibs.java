@@ -8,5 +8,7 @@ public class MadLibs {
         String adverb = scanner.nextLine();
 
         System.out.print("He was forced to " + adverb + " run away, scared for his life.");
+
+        scanner.close();
     }
 }
