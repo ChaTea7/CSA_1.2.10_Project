@@ -1,11 +1,10 @@
 import java.util.Scanner;
 
-public class MadLibs {
+public class Runner {
     public static void main (String[] args) {
         //initialize the scanner
         Scanner scanner = new Scanner(System.in);
 
-        //Alex's madlib
         //take string inputs 
         System.out.println("Enter a name: ");
         String name = scanner.nextLine();
