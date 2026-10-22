@@ -2,8 +2,8 @@
 ## Group: Rohan, Alex, Charles, Arjun, Hashim
 ### Roles:
 **Rohan**: Team leader. Created the runner class.\
-n**Alex**: Created noun/plural noun class, team moral support and mascot.\
-n**Charles**: Created adjective class.\
+**Alex**: Created noun/plural noun class, team moral support and mascot.\
+**Charles**: Created adjective class.\
 **Hashim**: Created verb class.\
 **Arjun**: Created adverb class.\
 
