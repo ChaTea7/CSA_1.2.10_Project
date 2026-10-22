@@ -5,7 +5,7 @@
 **Alex**: Created noun/plural noun class, team moral support and mascot.\
 **Charles**: Created adjective class.\
 **Hashim**: Created verb class.\
-**Arjun**: Created adverb class.\
+**Arjun**: Created adverb class.
 
 ### Description:
 This is a MadLibs based project that takes in user input of different words and adds it into a story to make a completely personalized and custom story. 
